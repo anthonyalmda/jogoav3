@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project Assets/Scenes/Scene 0 - Menu.unity
+    guid: 6cc35a80f1832fc42b0707220add0101
+  - enabled: 1
+    path: Assets/Project Assets/Scenes/Scene 1 - Bike.unity
+    guid: 8c42d3d3ecee64546ac1cbb48c5ae790
+  - enabled: 1
+    path: Assets/Project Assets/Scenes/Scene 2 - Pedalinho.unity
+    guid: 260bd035301494c4c9958f192fca8223
+  - enabled: 1
+    path: Assets/Project Assets/Scenes/Scene 3 - Puzzle.unity
+    guid: 6a23598c6303e434a92c876179da20a3
+  - enabled: 1
+    path: Assets/Project Assets/Scenes/Scene 4 - MenuBike.unity
+    guid: a99a335ebafb24849bb5502b3fb427f4
+  - enabled: 1
+    path: Assets/Project Assets/Scenes/Scene 5 - Menu Puzzle.unity
+    guid: 525b2c056aa2e6240beffdc6d9ce08b1
+  - enabled: 1
+    path: Assets/Pedalinho/Project Assets/Scenes/Menu.unity
+    guid: 23e1c8d8112363e429acf2acb27bdd37
+  - enabled: 1
+    path: Assets/Pedalinho/Project Assets/Scenes/ChoseCharacter.unity
+    guid: c5061c8aab202a640906738504fbf4f9
+  - enabled: 1
+    path: Assets/Pedalinho/Project Assets/Scenes/Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
